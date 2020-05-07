@@ -12,6 +12,5 @@ npm install sass-loader node-sass
 
 ```
 Vant Weapp
-
-项目地址：https://github.com/youzan/vant-weapp
 ```
+项目地址： [Vant Weapp](https://github.com/youzan/vant-weapp).

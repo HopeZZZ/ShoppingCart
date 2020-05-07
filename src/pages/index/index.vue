@@ -34,7 +34,7 @@
                     :tip="true"
                     :loading="showLoading">
                 <view>
-                    <van-checkbox use-icon-slot value="{{ isAllSelect }}" @change="onAllCheck">
+                    <van-checkbox use-icon-slot :value="isAllSelect" @change="onAllCheck">
                         <image class="select_img" slot="icon"
                                :src="isAllSelect ? activeIcon : inactiveIcon"></image>
                         全选
